@@ -4,7 +4,7 @@ const Navbar = () => {
          <div className="w-11/12 mx-auto flex items-center justify-between">
            <div className="flex items-center ">
              <img className="w-15 rounded-full h-15 p-2" src="/nav.jpg" alt=""/>
-            <h1 className="font-bold text-3xl">Tea<span className="text-teal-500">Stall</span></h1>
+            <h1 className="font-bold text-3xl">Tea<span className="text-[#84B179]">Stall</span></h1>
            </div>
            <ul className="flex gap-10">
             <li className="hover:border-b-2 hover:font-bold"><a href="#">Home</a></li>

@@ -13,7 +13,7 @@ function App() {
 
     {/* Header */}
     <section>
-      <Header></Header>
+      <Header>come</Header>
     </section>
    </div>
   )
