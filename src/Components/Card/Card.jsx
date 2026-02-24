@@ -16,7 +16,7 @@ const Card = () => {
       </div>
 
       <div className="">
-        <div className="absolute right-0 flex lg:card-side w-[900px] mb-5 bg-base-100 shadow-sm">
+        <div className="absolute right-0 flex lg:card-side w-[900px] mb-5 bg-base-100 shadow-sm lg:flex-row-reverse">
           <img className="w-full h-80" src="https://i.ibb.co.com/MQzTfZ7/1c59b8dc371634aeaea14fd52d75c324.avif" alt="Tea" />
 
           <div className="card-body">

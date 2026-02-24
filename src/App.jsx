@@ -1,12 +1,10 @@
 import { Suspense } from "react";
 import "./App.css";
 import Header from "./Components/Header/Header";
-import Main from "./Components/Main/Main";
 import Navbar from "./Components/Navbar/Navbar";
 import LoadData from "./Components/LoadData/LoadData";
 import { ToastContainer } from "react-toastify";
-import Card from "./Components/Card/Card";
-import Delivery from "./Components/Delivery/Delivery";
+import Footer from "./Components/Footer/Footer";
 
 const fetchData = async () => {
   const res = await fetch("/blogs.json");
@@ -21,6 +19,7 @@ function App() {
       {/* Navbar */}
       <section>
         <Navbar></Navbar>
+        
       </section>
 
       {/* Header */}
@@ -34,7 +33,7 @@ function App() {
       <Suspense fallback={<h1>Loading...</h1>}>
         <LoadData promiseData={promiseData}></LoadData>
       </Suspense>
-
+    
 
       <ToastContainer
         position="top-right"
@@ -48,6 +47,8 @@ function App() {
         pauseOnHover
         theme="light"
       />
+
+      <Footer></Footer>
     </div>
   );
 }
