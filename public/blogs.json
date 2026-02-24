@@ -26,7 +26,7 @@
         {
         "id": 4,
         "name": "Masala Tea",
-        "description": "Aromatic masala tea infused with bold spices, offering warmth, energy, and a touch of tradition in every sip.",
+        "description": "Aromatic masala tea infused with bold spices, and a touch of tradition in every sip.",
         "Price": 250,
         "image":"https://i.ibb.co.com/MQzTfZ7/1c59b8dc371634aeaea14fd52d75c324.avif"
     },
@@ -45,6 +45,6 @@
         "description": "Classic, everyday tea with a smooth taste that refreshes and energizes in every cup.",
         "Price": 20,
         "image":"https://i.ibb.co.com/W4MK4z6C/Getty-Images-1471979246-0638519142bd4a9aa3af64af45750889.jpg"
-    },
+    }
     
 ]
