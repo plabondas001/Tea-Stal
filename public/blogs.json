@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Green Tea",
+        "description": "Refreshing, antioxidant-rich green tea that brings natural energy and calm in every sip.",
+        "Price": 250,
+        "image":"https://i.ibb.co.com/Pzg0rfSJ/leaf-plate-wood-object-healthy-eating-1172-451.avif"
+    },
+
+        {
+        "id": 2,
+        "name": "Black Tea",
+        "description": "Bold, full-bodied black tea that awakens your senses with rich flavor and natural vitality.",
+        "Price": 200,
+        "image":"https://i.ibb.co.com/8nYgCnMf/020-a.jpg"
+    },
+
+        {
+        "id": 3,
+        "name": "Milk Tea",
+        "description": "Creamy, comforting milk tea that blends rich flavor with a perfect balance of sweetness and warmth.",
+        "Price": 100,
+        "image":"https://i.ibb.co.com/23P804p1/IMG-9065.jpg"
+    },
+
+        {
+        "id": 4,
+        "name": "Masala Tea",
+        "description": "Aromatic masala tea infused with bold spices, offering warmth, energy, and a touch of tradition in every sip.",
+        "Price": 250,
+        "image":"https://i.ibb.co.com/MQzTfZ7/1c59b8dc371634aeaea14fd52d75c324.avif"
+    },
+
+    {
+        "id": 5,
+        "name": "White Tea",
+        "description": "Delicate, naturally sweet white tea with subtle floral notes that refreshes and soothes in every sip.",
+        "Price": 180,
+        "image":"https://i.ibb.co.com/gLcRd3v3/20221107133813-white-tea-recipe-blog.webp"
+    },
+
+    {
+        "id": 6,
+        "name": "Normal Tea",
+        "description": "Classic, everyday tea with a smooth taste that refreshes and energizes in every cup.",
+        "Price": 20,
+        "image":"https://i.ibb.co.com/W4MK4z6C/Getty-Images-1471979246-0638519142bd4a9aa3af64af45750889.jpg"
+    },
+    
+]
